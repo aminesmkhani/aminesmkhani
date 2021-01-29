@@ -1,19 +1,25 @@
-### Hi there 👋
+# Hi there 👏
 
-<? php ?> 😎
+I Simple Web Developer.
 
-{{ Laravel }} 😎
+I am a simple web developer and you can see the portfolio and code I worked on here with pride for humanity
 
-<HTML> + {CSS} + @Less + $Sass 😎
+## Usage
 
-Vue.js 😉
+```php
+<? php ?>  # Good
+{{ Laravel }}  # Good
+<HTML> + {CSS} + @Less + $Sass # Good
+Vue.js # Not Bad
+Database & SQL # Good
+Git & Git-Flow # Good
+Flutter # Familiar
+Node.js # Familiar
+SEO #Using
+Simple Web Developer 🤪
+```
 
-Database & SQL 💪
+## فارسی
+من توسعه دهنده وب ساده هستم و شما میتونید نمونه کار ها و کدهایی رو که کار کردم رواینجا ببینید با افتخار برای انسانیت
 
-Git & Git-Flow 🤩
-
-Flutter 🧐
-
-Node.js 🧐
-
-Full Stack Developer
+[WebSite](https:/sectron.ir)
