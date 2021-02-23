@@ -15,6 +15,7 @@ Database & SQL # Good
 Git & Git-Flow # Good
 Flutter # Familiar
 Node.js # Familiar
+React.js # Familiar
 SEO #Using
 Simple Web Developer 🤪
 ```
