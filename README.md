@@ -7,7 +7,7 @@ I am a simple web developer and you can see the portfolio and code I worked on h
 ## Usage
 
 ```php
-<? php ?>  # Good
+<? php ?>  # Not Bad
 {{ Laravel }}  # Good
 <HTML> + {CSS} + @Less + $Sass # Good
 Vue.js # Not Bad
