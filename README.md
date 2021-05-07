@@ -6,9 +6,7 @@ I am a simple web developer and you can see the portfolio and code I worked on h
 
 ## Usage
 
-```php
-<? php ?>  # Not Bad
-{{ Laravel }}  # Good
+For Fun 🥳🥳
 
 Simple Web Developer 🤪
 ```
