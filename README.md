@@ -18,7 +18,7 @@ Code For Fun 🥳🤪
 
 [![](https://img.shields.io/badge/-php-green?style=for-the-badge&logo=php)](https://php.net)
 [![](https://img.shields.io/badge/-laravel-white?style=for-the-badge&logo=laravel)](https://laravel.com)
-[![](https://img.shields.io/badge/-javascript-red?style=for-the-badge&logo=javascript)](https://go.dev/)
+[![](https://img.shields.io/badge/-javascript-red?style=for-the-badge&logo=javascript)](#)
 
 
 ## 
