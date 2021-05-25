@@ -26,9 +26,7 @@ Code For Fun 🥳🤪
 [![](https://img.shields.io/badge/-laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](#)
 
-
 ## 
-
 
 <p align="center" style"dir:rtl">
   <img src="https://github-readme-stats.vercel.app/api?username=aminesmkhani&show_icons=true&theme=monokai" alt="Amin Esmkhani GitHub stats" />
