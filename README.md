@@ -30,4 +30,6 @@ Code For Fun 🥳🤪
 
 <p align="center" style"dir:rtl">
   <img src="https://github-readme-stats.vercel.app/api?username=aminesmkhani&show_icons=true&theme=monokai" alt="Amin Esmkhani GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminesmkhani&theme=monokai" alt="Amin Esmkhani Github Steak" />
+
 </p>
