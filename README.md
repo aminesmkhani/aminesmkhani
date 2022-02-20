@@ -1,6 +1,3 @@
-I am a simple web developer and you can see the portfolio and code I worked on here with pride for humanity
-
-
 🌱🌎
 <div dir="ltr">
 
